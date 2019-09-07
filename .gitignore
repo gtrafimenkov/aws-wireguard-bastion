@@ -1,0 +1,8 @@
+.terraform/
+basion_private
+basion_public
+client_private
+client_public
+terraform-plan
+terraform.tfstate
+terraform.tfstate.backup
